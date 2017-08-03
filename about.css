@@ -1,0 +1,28 @@
+Center#head1 {
+  font-size:50px;
+  color: white;
+  font-family:arial;
+}
+h2#head2{
+  color:white;
+}
+
+p{
+  color:white;
+  font-size:15px;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  background-image:url("about_background.jpg");
+  background-size: 1720px 1000px;
+  display:block;
+  padding:0 !important;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img{
+  display: block;
+  padding:10px;
+}
